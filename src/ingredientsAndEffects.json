@@ -1,0 +1,1286 @@
+{
+  "reagents": [
+    {
+      "imgHref": "https://images.uesp.net/thumb/e/ed/ON-icon-reagent-Beetle_Scuttle.png/32px-ON-icon-reagent-Beetle_Scuttle.png",
+      "reagentName": "Beetle Scuttle",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Beetle_Scuttle",
+      "effects": [
+        {
+          "effectName": "Breach",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Breach",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/52/ON-icon-effect-Alchemy-Lower_Spell_Resist.png/16px-ON-icon-effect-Alchemy-Lower_Spell_Resist.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Increase Armor",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Armor",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/76/ON-icon-effect-Alchemy-Increase_Armor.png/16px-ON-icon-effect-Alchemy-Increase_Armor.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Protection",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Protection",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/2a/ON-icon-effect-Alchemy-Protection.png/16px-ON-icon-effect-Alchemy-Protection.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Vitality",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Vitality",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/51/ON-icon-effect-Alchemy-Vitality.png/16px-ON-icon-effect-Alchemy-Vitality.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Beetle\" title=\"Online:Beetle\">Beetles</a>, <a href=\"/wiki/Online:Thunderbug\" title=\"Online:Thunderbug\">Thunderbugs</a>, <a href=\"/wiki/Online:Assassin_Beetle\" title=\"Online:Assassin Beetle\">Assassin Beetles</a>, <a href=\"/wiki/Online:Shalk\" title=\"Online:Shalk\">Shalks</a>"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/8/8a/ON-icon-reagent-Blessed_Thistle.png/32px-ON-icon-reagent-Blessed_Thistle.png",
+      "reagentName": "Blessed Thistle",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Blessed_Thistle",
+      "effects": [
+        {
+          "effectName": "Restore Stamina",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Stamina",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/2b/ON-icon-effect-Alchemy-Restore_Stamina.png/16px-ON-icon-effect-Alchemy-Restore_Stamina.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Increase Weapon Power",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Weapon_Power",
+          "effectImgSrc": "https://images.uesp.net/thumb/c/cd/ON-icon-effect-Alchemy-Increase_Weapon_Power.png/16px-ON-icon-effect-Alchemy-Increase_Weapon_Power.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Ravage Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6a/ON-icon-effect-Alchemy-Ravage_Health.png/16px-ON-icon-effect-Alchemy-Ravage_Health.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Speed",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Speed",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/3b/ON-icon-effect-Alchemy-Speed.png/16px-ON-icon-effect-Alchemy-Speed.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Default nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/6/6a/ON-icon-reagent-Blue_Entoloma.png/32px-ON-icon-reagent-Blue_Entoloma.png",
+      "reagentName": "Blue Entoloma",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Blue_Entoloma",
+      "effects": [
+        {
+          "effectName": "Ravage Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/df/ON-icon-effect-Alchemy-Ravage_Magicka.png/16px-ON-icon-effect-Alchemy-Ravage_Magicka.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Cowardice",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Cowardice",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/50/ON-icon-effect-Alchemy-Lower_Spell_Power.png/16px-ON-icon-effect-Alchemy-Lower_Spell_Power.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Restore Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/24/ON-icon-effect-Alchemy-Restore_Health.png/16px-ON-icon-effect-Alchemy-Restore_Health.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Invisible",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Invisible",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/da/ON-icon-effect-Alchemy-Invisible.png/16px-ON-icon-effect-Alchemy-Invisible.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Fungal nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/1/1b/ON-icon-reagent-Bugloss.png/32px-ON-icon-reagent-Bugloss.png",
+      "reagentName": "Bugloss",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Bugloss",
+      "effects": [
+        {
+          "effectName": "Increase Spell Resist",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Spell_Resist",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/7e/ON-icon-effect-Alchemy-Increase_Spell_Resist.png/16px-ON-icon-effect-Alchemy-Increase_Spell_Resist.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Restore Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/24/ON-icon-effect-Alchemy-Restore_Health.png/16px-ON-icon-effect-Alchemy-Restore_Health.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Cowardice",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Cowardice",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/50/ON-icon-effect-Alchemy-Lower_Spell_Power.png/16px-ON-icon-effect-Alchemy-Lower_Spell_Power.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Restore Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/9/93/ON-icon-effect-Alchemy-Restore_Magicka.png/16px-ON-icon-effect-Alchemy-Restore_Magicka.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Default nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/5/50/ON-icon-reagent-Butterfly_Wing.png/32px-ON-icon-reagent-Butterfly_Wing.png",
+      "reagentName": "Butterfly Wing",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Butterfly_Wing",
+      "effects": [
+        {
+          "effectName": "Restore Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/24/ON-icon-effect-Alchemy-Restore_Health.png/16px-ON-icon-effect-Alchemy-Restore_Health.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Uncertainty",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Uncertainty",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/3f/ON-icon-effect-Alchemy-Lower_Spell_Crit.png/16px-ON-icon-effect-Alchemy-Lower_Spell_Crit.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Lingering Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Lingering_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/a/ae/ON-icon-effect-Alchemy-Sustained_Restore_Health.png/16px-ON-icon-effect-Alchemy-Sustained_Restore_Health.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Vitality",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Vitality",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/51/ON-icon-effect-Alchemy-Vitality.png/16px-ON-icon-effect-Alchemy-Vitality.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Butterfly\" title=\"Online:Butterfly\">Butterflies</a>"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/6/69/ON-icon-reagent-Chaurus_Egg.png/32px-ON-icon-reagent-Chaurus_Egg.png",
+      "reagentName": "Chaurus Egg",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Chaurus_Egg",
+      "effects": [
+        {
+          "effectName": "Timidity",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Timidity",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/1d/ON-icon-effect-Alchemy-Timidity.png/16px-ON-icon-effect-Alchemy-Timidity.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Ravage Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/df/ON-icon-effect-Alchemy-Ravage_Magicka.png/16px-ON-icon-effect-Alchemy-Ravage_Magicka.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Restore Stamina",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Stamina",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/2b/ON-icon-effect-Alchemy-Restore_Stamina.png/16px-ON-icon-effect-Alchemy-Restore_Stamina.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Detection",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Detection",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/37/ON-icon-effect-Alchemy-Detection.png/16px-ON-icon-effect-Alchemy-Detection.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Chaurus\" title=\"Online:Chaurus\">Chauruses</a>"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/e/e4/ON-icon-reagent-Clam_Gall.png/32px-ON-icon-reagent-Clam_Gall.png",
+      "reagentName": "Clam Gall",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Clam_Gall",
+      "effects": [
+        {
+          "effectName": "Increase Spell Resist",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Spell_Resist",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/7e/ON-icon-effect-Alchemy-Increase_Spell_Resist.png/16px-ON-icon-effect-Alchemy-Increase_Spell_Resist.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Hindrance",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Hindrance",
+          "effectImgSrc": "https://images.uesp.net/thumb/c/cb/ON-icon-effect-Alchemy-Reduce_Speed.png/16px-ON-icon-effect-Alchemy-Reduce_Speed.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Vulnerability",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Vulnerability",
+          "effectImgSrc": "https://images.uesp.net/thumb/8/8b/ON-icon-effect-Alchemy-Vulnerability.png/16px-ON-icon-effect-Alchemy-Vulnerability.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Defile",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Defile",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6c/ON-icon-effect-Alchemy-Defile.png/16px-ON-icon-effect-Alchemy-Defile.png",
+          "effectType": "EffectNeg"
+        }
+      ],
+      "comesFrom": "<a href=\"/w/index.php?title=Online:Giant_Clam&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Online:Giant Clam (page does not exist)\">Giant Clams</a> (spawn near the ocean on <a href=\"/wiki/Online:Summerset\" title=\"Online:Summerset\">Summerset</a> and <a href=\"/wiki/Online:High_Isle\" title=\"Online:High Isle\">High Isle</a>)"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/3/34/ON-icon-reagent-Columbine.png/32px-ON-icon-reagent-Columbine.png",
+      "reagentName": "Columbine",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Columbine",
+      "effects": [
+        {
+          "effectName": "Restore Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/24/ON-icon-effect-Alchemy-Restore_Health.png/16px-ON-icon-effect-Alchemy-Restore_Health.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Restore Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/9/93/ON-icon-effect-Alchemy-Restore_Magicka.png/16px-ON-icon-effect-Alchemy-Restore_Magicka.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Restore Stamina",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Stamina",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/2b/ON-icon-effect-Alchemy-Restore_Stamina.png/16px-ON-icon-effect-Alchemy-Restore_Stamina.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Unstoppable",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Unstoppable",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/11/ON-icon-effect-Alchemy-Unstoppable.png/16px-ON-icon-effect-Alchemy-Unstoppable.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Default nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/c/c8/ON-icon-reagent-Corn_Flower.png/32px-ON-icon-reagent-Corn_Flower.png",
+      "reagentName": "Corn Flower",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Corn_Flower",
+      "effects": [
+        {
+          "effectName": "Restore Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/9/93/ON-icon-effect-Alchemy-Restore_Magicka.png/16px-ON-icon-effect-Alchemy-Restore_Magicka.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Increase Spell Power",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Spell_Power",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/15/ON-icon-effect-Alchemy-Increase_Spell_Power.png/16px-ON-icon-effect-Alchemy-Increase_Spell_Power.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Ravage Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6a/ON-icon-effect-Alchemy-Ravage_Health.png/16px-ON-icon-effect-Alchemy-Ravage_Health.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Detection",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Detection",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/37/ON-icon-effect-Alchemy-Detection.png/16px-ON-icon-effect-Alchemy-Detection.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Default nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/6/6b/ON-icon-reagent-Crimson_Nirnroot.png/32px-ON-icon-reagent-Crimson_Nirnroot.png",
+      "reagentName": "Crimson Nirnroot",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Crimson_Nirnroot",
+      "effects": [
+        {
+          "effectName": "Timidity",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Timidity",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/1d/ON-icon-effect-Alchemy-Timidity.png/16px-ON-icon-effect-Alchemy-Timidity.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Spell Critical",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Spell_Critical",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/5b/ON-icon-effect-Alchemy-Spell_Crit.png/16px-ON-icon-effect-Alchemy-Spell_Crit.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Gradual Ravage Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Gradual_Ravage_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/9/9b/ON-icon-effect-Alchemy-Creeping_Ravage_Health.png/16px-ON-icon-effect-Alchemy-Creeping_Ravage_Health.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Restore Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/24/ON-icon-effect-Alchemy-Restore_Health.png/16px-ON-icon-effect-Alchemy-Restore_Health.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Blackreach (unique node type)"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/7/71/ON-icon-reagent-Dragon_Rheum.png/32px-ON-icon-reagent-Dragon_Rheum.png",
+      "reagentName": "Dragon Rheum",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Dragon_Rheum",
+      "effects": [
+        {
+          "effectName": "Restore Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/9/93/ON-icon-effect-Alchemy-Restore_Magicka.png/16px-ON-icon-effect-Alchemy-Restore_Magicka.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Heroism",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Heroism",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/dc/ON-icon-effect-Alchemy-Heroism.png/16px-ON-icon-effect-Alchemy-Heroism.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Enervation",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Enervation",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/3a/ON-icon-effect-Alchemy-Lower_Weapon_Crit.png/16px-ON-icon-effect-Alchemy-Lower_Weapon_Crit.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Speed",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Speed",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/3b/ON-icon-effect-Alchemy-Speed.png/16px-ON-icon-effect-Alchemy-Speed.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Dragon\" title=\"Online:Dragon\">Dragons</a> (upon completing <a href=\"/wiki/Online:The_Good_Bits_(quest)\" title=\"Online:The Good Bits (quest)\">The Good Bits</a>)"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/d/df/ON-icon-reagent-Dragon%27s_Bile.png/32px-ON-icon-reagent-Dragon%27s_Bile.png",
+      "reagentName": "Dragon's Bile",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Dragon%27s_Bile",
+      "effects": [
+        {
+          "effectName": "Heroism",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Heroism",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/dc/ON-icon-effect-Alchemy-Heroism.png/16px-ON-icon-effect-Alchemy-Heroism.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Vulnerability",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Vulnerability",
+          "effectImgSrc": "https://images.uesp.net/thumb/8/8b/ON-icon-effect-Alchemy-Vulnerability.png/16px-ON-icon-effect-Alchemy-Vulnerability.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Invisible",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Invisible",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/da/ON-icon-effect-Alchemy-Invisible.png/16px-ON-icon-effect-Alchemy-Invisible.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Vitality",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Vitality",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/51/ON-icon-effect-Alchemy-Vitality.png/16px-ON-icon-effect-Alchemy-Vitality.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Dragon\" title=\"Online:Dragon\">Dragons</a>"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/5/54/ON-icon-reagent-Dragon%27s_Blood.png/32px-ON-icon-reagent-Dragon%27s_Blood.png",
+      "reagentName": "Dragon's Blood",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Dragon%27s_Blood",
+      "effects": [
+        {
+          "effectName": "Lingering Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Lingering_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/a/ae/ON-icon-effect-Alchemy-Sustained_Restore_Health.png/16px-ON-icon-effect-Alchemy-Sustained_Restore_Health.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Restore Stamina",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Stamina",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/2b/ON-icon-effect-Alchemy-Restore_Stamina.png/16px-ON-icon-effect-Alchemy-Restore_Stamina.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Heroism",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Heroism",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/dc/ON-icon-effect-Alchemy-Heroism.png/16px-ON-icon-effect-Alchemy-Heroism.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Defile",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Defile",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6c/ON-icon-effect-Alchemy-Defile.png/16px-ON-icon-effect-Alchemy-Defile.png",
+          "effectType": "EffectNeg"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Dragon\" title=\"Online:Dragon\">Dragons</a>"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/2/21/ON-icon-reagent-Dragonthorn.png/32px-ON-icon-reagent-Dragonthorn.png",
+      "reagentName": "Dragonthorn",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Dragonthorn",
+      "effects": [
+        {
+          "effectName": "Increase Weapon Power",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Weapon_Power",
+          "effectImgSrc": "https://images.uesp.net/thumb/c/cd/ON-icon-effect-Alchemy-Increase_Weapon_Power.png/16px-ON-icon-effect-Alchemy-Increase_Weapon_Power.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Restore Stamina",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Stamina",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/2b/ON-icon-effect-Alchemy-Restore_Stamina.png/16px-ON-icon-effect-Alchemy-Restore_Stamina.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Fracture",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Fracture",
+          "effectImgSrc": "https://images.uesp.net/thumb/f/f7/ON-icon-effect-Alchemy-Lower_Armor.png/16px-ON-icon-effect-Alchemy-Lower_Armor.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Weapon Critical",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Weapon_Critical",
+          "effectImgSrc": "https://images.uesp.net/thumb/0/0b/ON-icon-effect-Alchemy-Weapon_Crit.png/16px-ON-icon-effect-Alchemy-Weapon_Crit.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Default nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/a/a4/ON-icon-reagent-Emetic_Russula.png/32px-ON-icon-reagent-Emetic_Russula.png",
+      "reagentName": "Emetic Russula",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Emetic_Russula",
+      "effects": [
+        {
+          "effectName": "Ravage Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6a/ON-icon-effect-Alchemy-Ravage_Health.png/16px-ON-icon-effect-Alchemy-Ravage_Health.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Ravage Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/df/ON-icon-effect-Alchemy-Ravage_Magicka.png/16px-ON-icon-effect-Alchemy-Ravage_Magicka.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Ravage Stamina",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Stamina",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/7f/ON-icon-effect-Alchemy-Ravage_Stamina.png/16px-ON-icon-effect-Alchemy-Ravage_Stamina.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Entrapment",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Entrapment",
+          "effectImgSrc": "https://images.uesp.net/thumb/0/08/ON-icon-effect-Alchemy-Stun.png/16px-ON-icon-effect-Alchemy-Stun.png",
+          "effectType": "EffectNeg"
+        }
+      ],
+      "comesFrom": "Fungal nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/f/f0/ON-icon-reagent-Fleshfly_Larva.png/32px-ON-icon-reagent-Fleshfly_Larva.png",
+      "reagentName": "Fleshfly Larva",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Fleshfly_Larva",
+      "effects": [
+        {
+          "effectName": "Ravage Stamina",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Stamina",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/7f/ON-icon-effect-Alchemy-Ravage_Stamina.png/16px-ON-icon-effect-Alchemy-Ravage_Stamina.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Vulnerability",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Vulnerability",
+          "effectImgSrc": "https://images.uesp.net/thumb/8/8b/ON-icon-effect-Alchemy-Vulnerability.png/16px-ON-icon-effect-Alchemy-Vulnerability.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Gradual Ravage Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Gradual_Ravage_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/9/9b/ON-icon-effect-Alchemy-Creeping_Ravage_Health.png/16px-ON-icon-effect-Alchemy-Creeping_Ravage_Health.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Vitality",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Vitality",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/51/ON-icon-effect-Alchemy-Vitality.png/16px-ON-icon-effect-Alchemy-Vitality.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Fleshflies\" title=\"Online:Fleshflies\">Fleshflies</a> &amp; <a href=\"/wiki/Online:Zombie\" title=\"Online:Zombie\">Zombies</a>"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/b/b8/ON-icon-reagent-Imp_Stool.png/32px-ON-icon-reagent-Imp_Stool.png",
+      "reagentName": "Imp Stool",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Imp_Stool",
+      "effects": [
+        {
+          "effectName": "Maim",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Maim",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/16/ON-icon-effect-Alchemy-Lower_Weapon_Power.png/16px-ON-icon-effect-Alchemy-Lower_Weapon_Power.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Ravage Stamina",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Stamina",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/7f/ON-icon-effect-Alchemy-Ravage_Stamina.png/16px-ON-icon-effect-Alchemy-Ravage_Stamina.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Increase Armor",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Armor",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/76/ON-icon-effect-Alchemy-Increase_Armor.png/16px-ON-icon-effect-Alchemy-Increase_Armor.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Enervation",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Enervation",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/3a/ON-icon-effect-Alchemy-Lower_Weapon_Crit.png/16px-ON-icon-effect-Alchemy-Lower_Weapon_Crit.png",
+          "effectType": "EffectNeg"
+        }
+      ],
+      "comesFrom": "Fungal nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/2/2e/ON-icon-reagent-Lady%27s_Smock.png/32px-ON-icon-reagent-Lady%27s_Smock.png",
+      "reagentName": "Lady's Smock",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Lady%27s_Smock",
+      "effects": [
+        {
+          "effectName": "Increase Spell Power",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Spell_Power",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/15/ON-icon-effect-Alchemy-Increase_Spell_Power.png/16px-ON-icon-effect-Alchemy-Increase_Spell_Power.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Restore Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/9/93/ON-icon-effect-Alchemy-Restore_Magicka.png/16px-ON-icon-effect-Alchemy-Restore_Magicka.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Breach",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Breach",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/52/ON-icon-effect-Alchemy-Lower_Spell_Resist.png/16px-ON-icon-effect-Alchemy-Lower_Spell_Resist.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Spell Critical",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Spell_Critical",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/5b/ON-icon-effect-Alchemy-Spell_Crit.png/16px-ON-icon-effect-Alchemy-Spell_Crit.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Default nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/3/39/ON-icon-reagent-Luminous_Russula.png/32px-ON-icon-reagent-Luminous_Russula.png",
+      "reagentName": "Luminous Russula",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Luminous_Russula",
+      "effects": [
+        {
+          "effectName": "Ravage Stamina",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Stamina",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/7f/ON-icon-effect-Alchemy-Ravage_Stamina.png/16px-ON-icon-effect-Alchemy-Ravage_Stamina.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Maim",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Maim",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/16/ON-icon-effect-Alchemy-Lower_Weapon_Power.png/16px-ON-icon-effect-Alchemy-Lower_Weapon_Power.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Restore Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/24/ON-icon-effect-Alchemy-Restore_Health.png/16px-ON-icon-effect-Alchemy-Restore_Health.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Hindrance",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Hindrance",
+          "effectImgSrc": "https://images.uesp.net/thumb/c/cb/ON-icon-effect-Alchemy-Reduce_Speed.png/16px-ON-icon-effect-Alchemy-Reduce_Speed.png",
+          "effectType": "EffectNeg"
+        }
+      ],
+      "comesFrom": "Fungal nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/8/88/ON-icon-reagent-Mountain_Flower.png/32px-ON-icon-reagent-Mountain_Flower.png",
+      "reagentName": "Mountain Flower",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Mountain_Flower",
+      "effects": [
+        {
+          "effectName": "Increase Armor",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Armor",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/76/ON-icon-effect-Alchemy-Increase_Armor.png/16px-ON-icon-effect-Alchemy-Increase_Armor.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Restore Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/24/ON-icon-effect-Alchemy-Restore_Health.png/16px-ON-icon-effect-Alchemy-Restore_Health.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Maim",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Maim",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/16/ON-icon-effect-Alchemy-Lower_Weapon_Power.png/16px-ON-icon-effect-Alchemy-Lower_Weapon_Power.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Restore Stamina",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Stamina",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/2b/ON-icon-effect-Alchemy-Restore_Stamina.png/16px-ON-icon-effect-Alchemy-Restore_Stamina.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Default nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/0/02/ON-icon-reagent-Mudcrab_Chitin.png/32px-ON-icon-reagent-Mudcrab_Chitin.png",
+      "reagentName": "Mudcrab Chitin",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Mudcrab_Chitin",
+      "effects": [
+        {
+          "effectName": "Increase Spell Resist",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Spell_Resist",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/7e/ON-icon-effect-Alchemy-Increase_Spell_Resist.png/16px-ON-icon-effect-Alchemy-Increase_Spell_Resist.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Increase Armor",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Armor",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/76/ON-icon-effect-Alchemy-Increase_Armor.png/16px-ON-icon-effect-Alchemy-Increase_Armor.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Protection",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Protection",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/2a/ON-icon-effect-Alchemy-Protection.png/16px-ON-icon-effect-Alchemy-Protection.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Defile",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Defile",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6c/ON-icon-effect-Alchemy-Defile.png/16px-ON-icon-effect-Alchemy-Defile.png",
+          "effectType": "EffectNeg"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Mudcrab\" title=\"Online:Mudcrab\">Mudcrabs</a> (not <a href=\"/wiki/Online:Coral_Crab\" title=\"Online:Coral Crab\">Coral Crabs</a>)"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/2/2b/ON-icon-reagent-Namira%27s_Rot.png/32px-ON-icon-reagent-Namira%27s_Rot.png",
+      "reagentName": "Namira's Rot",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Namira%27s_Rot",
+      "effects": [
+        {
+          "effectName": "Spell Critical",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Spell_Critical",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/5b/ON-icon-effect-Alchemy-Spell_Crit.png/16px-ON-icon-effect-Alchemy-Spell_Crit.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Speed",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Speed",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/3b/ON-icon-effect-Alchemy-Speed.png/16px-ON-icon-effect-Alchemy-Speed.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Invisible",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Invisible",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/da/ON-icon-effect-Alchemy-Invisible.png/16px-ON-icon-effect-Alchemy-Invisible.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Unstoppable",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Unstoppable",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/11/ON-icon-effect-Alchemy-Unstoppable.png/16px-ON-icon-effect-Alchemy-Unstoppable.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Fungal nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/c/cf/ON-icon-reagent-Nightshade.png/32px-ON-icon-reagent-Nightshade.png",
+      "reagentName": "Nightshade",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Nightshade",
+      "effects": [
+        {
+          "effectName": "Ravage Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6a/ON-icon-effect-Alchemy-Ravage_Health.png/16px-ON-icon-effect-Alchemy-Ravage_Health.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Protection",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Protection",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/2a/ON-icon-effect-Alchemy-Protection.png/16px-ON-icon-effect-Alchemy-Protection.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Gradual Ravage Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Gradual_Ravage_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/9/9b/ON-icon-effect-Alchemy-Creeping_Ravage_Health.png/16px-ON-icon-effect-Alchemy-Creeping_Ravage_Health.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Defile",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Defile",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6c/ON-icon-effect-Alchemy-Defile.png/16px-ON-icon-effect-Alchemy-Defile.png",
+          "effectType": "EffectNeg"
+        }
+      ],
+      "comesFrom": "Default nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/4/46/ON-icon-reagent-Nirnroot.png/32px-ON-icon-reagent-Nirnroot.png",
+      "reagentName": "Nirnroot",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Nirnroot",
+      "effects": [
+        {
+          "effectName": "Ravage Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6a/ON-icon-effect-Alchemy-Ravage_Health.png/16px-ON-icon-effect-Alchemy-Ravage_Health.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Uncertainty",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Uncertainty",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/3f/ON-icon-effect-Alchemy-Lower_Spell_Crit.png/16px-ON-icon-effect-Alchemy-Lower_Spell_Crit.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Enervation",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Enervation",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/3a/ON-icon-effect-Alchemy-Lower_Weapon_Crit.png/16px-ON-icon-effect-Alchemy-Lower_Weapon_Crit.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Invisible",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Invisible",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/da/ON-icon-effect-Alchemy-Invisible.png/16px-ON-icon-effect-Alchemy-Invisible.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Water nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/b/b3/ON-icon-reagent-Powdered_Mother_of_Pearl.png/32px-ON-icon-reagent-Powdered_Mother_of_Pearl.png",
+      "reagentName": "Powdered Mother of Pearl",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Powdered_Mother_of_Pearl",
+      "effects": [
+        {
+          "effectName": "Lingering Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Lingering_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/a/ae/ON-icon-effect-Alchemy-Sustained_Restore_Health.png/16px-ON-icon-effect-Alchemy-Sustained_Restore_Health.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Speed",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Speed",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/3b/ON-icon-effect-Alchemy-Speed.png/16px-ON-icon-effect-Alchemy-Speed.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Vitality",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Vitality",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/51/ON-icon-effect-Alchemy-Vitality.png/16px-ON-icon-effect-Alchemy-Vitality.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Protection",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Protection",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/2a/ON-icon-effect-Alchemy-Protection.png/16px-ON-icon-effect-Alchemy-Protection.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "<a href=\"/w/index.php?title=Online:Giant_Clam&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Online:Giant Clam (page does not exist)\">Giant Clams</a> (spawn near the ocean on Summerset and High Isle)"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/5/57/ON-icon-reagent-Scrib_Jelly.png/32px-ON-icon-reagent-Scrib_Jelly.png",
+      "reagentName": "Scrib Jelly",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Scrib_Jelly",
+      "effects": [
+        {
+          "effectName": "Ravage Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/df/ON-icon-effect-Alchemy-Ravage_Magicka.png/16px-ON-icon-effect-Alchemy-Ravage_Magicka.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Speed",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Speed",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/3b/ON-icon-effect-Alchemy-Speed.png/16px-ON-icon-effect-Alchemy-Speed.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Vulnerability",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Vulnerability",
+          "effectImgSrc": "https://images.uesp.net/thumb/8/8b/ON-icon-effect-Alchemy-Vulnerability.png/16px-ON-icon-effect-Alchemy-Vulnerability.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Lingering Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Lingering_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/a/ae/ON-icon-effect-Alchemy-Sustained_Restore_Health.png/16px-ON-icon-effect-Alchemy-Sustained_Restore_Health.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Kwama\" title=\"Online:Kwama\">Kwama</a>"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/9/98/ON-icon-reagent-Spider_Egg.png/32px-ON-icon-reagent-Spider_Egg.png",
+      "reagentName": "Spider Egg",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Spider_Egg",
+      "effects": [
+        {
+          "effectName": "Hindrance",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Hindrance",
+          "effectImgSrc": "https://images.uesp.net/thumb/c/cb/ON-icon-effect-Alchemy-Reduce_Speed.png/16px-ON-icon-effect-Alchemy-Reduce_Speed.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Invisible",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Invisible",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/da/ON-icon-effect-Alchemy-Invisible.png/16px-ON-icon-effect-Alchemy-Invisible.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Lingering Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Lingering_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/a/ae/ON-icon-effect-Alchemy-Sustained_Restore_Health.png/16px-ON-icon-effect-Alchemy-Sustained_Restore_Health.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Defile",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Defile",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6c/ON-icon-effect-Alchemy-Defile.png/16px-ON-icon-effect-Alchemy-Defile.png",
+          "effectType": "EffectNeg"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Spider\" title=\"Online:Spider\">Spiders</a>"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/e/ec/ON-icon-reagent-Stinkhorn.png/32px-ON-icon-reagent-Stinkhorn.png",
+      "reagentName": "Stinkhorn",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Stinkhorn",
+      "effects": [
+        {
+          "effectName": "Fracture",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Fracture",
+          "effectImgSrc": "https://images.uesp.net/thumb/f/f7/ON-icon-effect-Alchemy-Lower_Armor.png/16px-ON-icon-effect-Alchemy-Lower_Armor.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Ravage Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6a/ON-icon-effect-Alchemy-Ravage_Health.png/16px-ON-icon-effect-Alchemy-Ravage_Health.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Increase Weapon Power",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Weapon_Power",
+          "effectImgSrc": "https://images.uesp.net/thumb/c/cd/ON-icon-effect-Alchemy-Increase_Weapon_Power.png/16px-ON-icon-effect-Alchemy-Increase_Weapon_Power.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Ravage Stamina",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Stamina",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/7f/ON-icon-effect-Alchemy-Ravage_Stamina.png/16px-ON-icon-effect-Alchemy-Ravage_Stamina.png",
+          "effectType": "EffectNeg"
+        }
+      ],
+      "comesFrom": "Fungal nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/7/74/ON-icon-reagent-Torchbug_Thorax.png/32px-ON-icon-reagent-Torchbug_Thorax.png",
+      "reagentName": "Torchbug Thorax",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Torchbug_Thorax",
+      "effects": [
+        {
+          "effectName": "Fracture",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Fracture",
+          "effectImgSrc": "https://images.uesp.net/thumb/f/f7/ON-icon-effect-Alchemy-Lower_Armor.png/16px-ON-icon-effect-Alchemy-Lower_Armor.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Enervation",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Enervation",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/3a/ON-icon-effect-Alchemy-Lower_Weapon_Crit.png/16px-ON-icon-effect-Alchemy-Lower_Weapon_Crit.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Detection",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Detection",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/37/ON-icon-effect-Alchemy-Detection.png/16px-ON-icon-effect-Alchemy-Detection.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Vitality",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Vitality",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/51/ON-icon-effect-Alchemy-Vitality.png/16px-ON-icon-effect-Alchemy-Vitality.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Torchbug\" title=\"Online:Torchbug\">Torchbugs</a>"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/2/2c/ON-icon-reagent-Vile_Coagulant.png/32px-ON-icon-reagent-Vile_Coagulant.png",
+      "reagentName": "Vile Coagulant",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Vile_Coagulant",
+      "effects": [
+        {
+          "effectName": "Timidity",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Timidity",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/1d/ON-icon-effect-Alchemy-Timidity.png/16px-ON-icon-effect-Alchemy-Timidity.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Ravage Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6a/ON-icon-effect-Alchemy-Ravage_Health.png/16px-ON-icon-effect-Alchemy-Ravage_Health.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Restore Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/9/93/ON-icon-effect-Alchemy-Restore_Magicka.png/16px-ON-icon-effect-Alchemy-Restore_Magicka.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Protection",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Protection",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/2a/ON-icon-effect-Alchemy-Protection.png/16px-ON-icon-effect-Alchemy-Protection.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "<a href=\"/wiki/Online:Harrowstorm\" title=\"Online:Harrowstorm\">Harrowstorms</a>"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/e/e5/ON-icon-reagent-Violet_Coprinus.png/32px-ON-icon-reagent-Violet_Coprinus.png",
+      "reagentName": "Violet Coprinus",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Violet_Coprinus",
+      "effects": [
+        {
+          "effectName": "Breach",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Breach",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/52/ON-icon-effect-Alchemy-Lower_Spell_Resist.png/16px-ON-icon-effect-Alchemy-Lower_Spell_Resist.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Ravage Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/6/6a/ON-icon-effect-Alchemy-Ravage_Health.png/16px-ON-icon-effect-Alchemy-Ravage_Health.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Increase Spell Power",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Spell_Power",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/15/ON-icon-effect-Alchemy-Increase_Spell_Power.png/16px-ON-icon-effect-Alchemy-Increase_Spell_Power.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Ravage Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/df/ON-icon-effect-Alchemy-Ravage_Magicka.png/16px-ON-icon-effect-Alchemy-Ravage_Magicka.png",
+          "effectType": "EffectNeg"
+        }
+      ],
+      "comesFrom": "Fungal nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/7/7f/ON-icon-reagent-Water_Hyacinth.png/32px-ON-icon-reagent-Water_Hyacinth.png",
+      "reagentName": "Water Hyacinth",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Water_Hyacinth",
+      "effects": [
+        {
+          "effectName": "Restore Health",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Health",
+          "effectImgSrc": "https://images.uesp.net/thumb/2/24/ON-icon-effect-Alchemy-Restore_Health.png/16px-ON-icon-effect-Alchemy-Restore_Health.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Spell Critical",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Spell_Critical",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/5b/ON-icon-effect-Alchemy-Spell_Crit.png/16px-ON-icon-effect-Alchemy-Spell_Crit.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Weapon Critical",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Weapon_Critical",
+          "effectImgSrc": "https://images.uesp.net/thumb/0/0b/ON-icon-effect-Alchemy-Weapon_Crit.png/16px-ON-icon-effect-Alchemy-Weapon_Crit.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Entrapment",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Entrapment",
+          "effectImgSrc": "https://images.uesp.net/thumb/0/08/ON-icon-effect-Alchemy-Stun.png/16px-ON-icon-effect-Alchemy-Stun.png",
+          "effectType": "EffectNeg"
+        }
+      ],
+      "comesFrom": "Water nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/8/8a/ON-icon-reagent-White_Cap.png/32px-ON-icon-reagent-White_Cap.png",
+      "reagentName": "White Cap",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:White_Cap",
+      "effects": [
+        {
+          "effectName": "Cowardice",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Cowardice",
+          "effectImgSrc": "https://images.uesp.net/thumb/5/50/ON-icon-effect-Alchemy-Lower_Spell_Power.png/16px-ON-icon-effect-Alchemy-Lower_Spell_Power.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Ravage Magicka",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Magicka",
+          "effectImgSrc": "https://images.uesp.net/thumb/d/df/ON-icon-effect-Alchemy-Ravage_Magicka.png/16px-ON-icon-effect-Alchemy-Ravage_Magicka.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Increase Spell Resist",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Spell_Resist",
+          "effectImgSrc": "https://images.uesp.net/thumb/7/7e/ON-icon-effect-Alchemy-Increase_Spell_Resist.png/16px-ON-icon-effect-Alchemy-Increase_Spell_Resist.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Detection",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Detection",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/37/ON-icon-effect-Alchemy-Detection.png/16px-ON-icon-effect-Alchemy-Detection.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Fungal nodes"
+    },
+    {
+      "imgHref": "https://images.uesp.net/thumb/7/71/ON-icon-reagent-Wormwood.png/32px-ON-icon-reagent-Wormwood.png",
+      "reagentName": "Wormwood",
+      "reagentWikiURL": "https://en.uesp.net/wiki/Online:Wormwood",
+      "effects": [
+        {
+          "effectName": "Weapon Critical",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Weapon_Critical",
+          "effectImgSrc": "https://images.uesp.net/thumb/0/0b/ON-icon-effect-Alchemy-Weapon_Crit.png/16px-ON-icon-effect-Alchemy-Weapon_Crit.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Hindrance",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Hindrance",
+          "effectImgSrc": "https://images.uesp.net/thumb/c/cb/ON-icon-effect-Alchemy-Reduce_Speed.png/16px-ON-icon-effect-Alchemy-Reduce_Speed.png",
+          "effectType": "EffectNeg"
+        },
+        {
+          "effectName": "Detection",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Detection",
+          "effectImgSrc": "https://images.uesp.net/thumb/3/37/ON-icon-effect-Alchemy-Detection.png/16px-ON-icon-effect-Alchemy-Detection.png",
+          "effectType": "EffectPos"
+        },
+        {
+          "effectName": "Unstoppable",
+          "effectWikiURL": "https://en.uesp.net/wiki/Online:Unstoppable",
+          "effectImgSrc": "https://images.uesp.net/thumb/1/11/ON-icon-effect-Alchemy-Unstoppable.png/16px-ON-icon-effect-Alchemy-Unstoppable.png",
+          "effectType": "EffectPos"
+        }
+      ],
+      "comesFrom": "Default nodes"
+    }
+  ],
+  "effectsMap": {
+    "Breach": {
+      "effectName": "Breach",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Breach",
+      "effectImgSrc": "https://images.uesp.net/thumb/5/52/ON-icon-effect-Alchemy-Lower_Spell_Resist.png/16px-ON-icon-effect-Alchemy-Lower_Spell_Resist.png",
+      "effectType": "EffectNeg"
+    },
+    "Increase Armor": {
+      "effectName": "Increase Armor",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Armor",
+      "effectImgSrc": "https://images.uesp.net/thumb/7/76/ON-icon-effect-Alchemy-Increase_Armor.png/16px-ON-icon-effect-Alchemy-Increase_Armor.png",
+      "effectType": "EffectPos"
+    },
+    "Protection": {
+      "effectName": "Protection",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Protection",
+      "effectImgSrc": "https://images.uesp.net/thumb/2/2a/ON-icon-effect-Alchemy-Protection.png/16px-ON-icon-effect-Alchemy-Protection.png",
+      "effectType": "EffectPos"
+    },
+    "Vitality": {
+      "effectName": "Vitality",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Vitality",
+      "effectImgSrc": "https://images.uesp.net/thumb/5/51/ON-icon-effect-Alchemy-Vitality.png/16px-ON-icon-effect-Alchemy-Vitality.png",
+      "effectType": "EffectPos"
+    },
+    "Restore Stamina": {
+      "effectName": "Restore Stamina",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Stamina",
+      "effectImgSrc": "https://images.uesp.net/thumb/2/2b/ON-icon-effect-Alchemy-Restore_Stamina.png/16px-ON-icon-effect-Alchemy-Restore_Stamina.png",
+      "effectType": "EffectPos"
+    },
+    "Increase Weapon Power": {
+      "effectName": "Increase Weapon Power",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Weapon_Power",
+      "effectImgSrc": "https://images.uesp.net/thumb/c/cd/ON-icon-effect-Alchemy-Increase_Weapon_Power.png/16px-ON-icon-effect-Alchemy-Increase_Weapon_Power.png",
+      "effectType": "EffectPos"
+    },
+    "Ravage Health": {
+      "effectName": "Ravage Health",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Health",
+      "effectImgSrc": "https://images.uesp.net/thumb/6/6a/ON-icon-effect-Alchemy-Ravage_Health.png/16px-ON-icon-effect-Alchemy-Ravage_Health.png",
+      "effectType": "EffectNeg"
+    },
+    "Speed": {
+      "effectName": "Speed",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Speed",
+      "effectImgSrc": "https://images.uesp.net/thumb/3/3b/ON-icon-effect-Alchemy-Speed.png/16px-ON-icon-effect-Alchemy-Speed.png",
+      "effectType": "EffectPos"
+    },
+    "Ravage Magicka": {
+      "effectName": "Ravage Magicka",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Magicka",
+      "effectImgSrc": "https://images.uesp.net/thumb/d/df/ON-icon-effect-Alchemy-Ravage_Magicka.png/16px-ON-icon-effect-Alchemy-Ravage_Magicka.png",
+      "effectType": "EffectNeg"
+    },
+    "Cowardice": {
+      "effectName": "Cowardice",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Cowardice",
+      "effectImgSrc": "https://images.uesp.net/thumb/5/50/ON-icon-effect-Alchemy-Lower_Spell_Power.png/16px-ON-icon-effect-Alchemy-Lower_Spell_Power.png",
+      "effectType": "EffectNeg"
+    },
+    "Restore Health": {
+      "effectName": "Restore Health",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Health",
+      "effectImgSrc": "https://images.uesp.net/thumb/2/24/ON-icon-effect-Alchemy-Restore_Health.png/16px-ON-icon-effect-Alchemy-Restore_Health.png",
+      "effectType": "EffectPos"
+    },
+    "Invisible": {
+      "effectName": "Invisible",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Invisible",
+      "effectImgSrc": "https://images.uesp.net/thumb/d/da/ON-icon-effect-Alchemy-Invisible.png/16px-ON-icon-effect-Alchemy-Invisible.png",
+      "effectType": "EffectPos"
+    },
+    "Increase Spell Resist": {
+      "effectName": "Increase Spell Resist",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Spell_Resist",
+      "effectImgSrc": "https://images.uesp.net/thumb/7/7e/ON-icon-effect-Alchemy-Increase_Spell_Resist.png/16px-ON-icon-effect-Alchemy-Increase_Spell_Resist.png",
+      "effectType": "EffectPos"
+    },
+    "Restore Magicka": {
+      "effectName": "Restore Magicka",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Restore_Magicka",
+      "effectImgSrc": "https://images.uesp.net/thumb/9/93/ON-icon-effect-Alchemy-Restore_Magicka.png/16px-ON-icon-effect-Alchemy-Restore_Magicka.png",
+      "effectType": "EffectPos"
+    },
+    "Uncertainty": {
+      "effectName": "Uncertainty",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Uncertainty",
+      "effectImgSrc": "https://images.uesp.net/thumb/3/3f/ON-icon-effect-Alchemy-Lower_Spell_Crit.png/16px-ON-icon-effect-Alchemy-Lower_Spell_Crit.png",
+      "effectType": "EffectNeg"
+    },
+    "Lingering Health": {
+      "effectName": "Lingering Health",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Lingering_Health",
+      "effectImgSrc": "https://images.uesp.net/thumb/a/ae/ON-icon-effect-Alchemy-Sustained_Restore_Health.png/16px-ON-icon-effect-Alchemy-Sustained_Restore_Health.png",
+      "effectType": "EffectPos"
+    },
+    "Timidity": {
+      "effectName": "Timidity",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Timidity",
+      "effectImgSrc": "https://images.uesp.net/thumb/1/1d/ON-icon-effect-Alchemy-Timidity.png/16px-ON-icon-effect-Alchemy-Timidity.png",
+      "effectType": "EffectNeg"
+    },
+    "Detection": {
+      "effectName": "Detection",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Detection",
+      "effectImgSrc": "https://images.uesp.net/thumb/3/37/ON-icon-effect-Alchemy-Detection.png/16px-ON-icon-effect-Alchemy-Detection.png",
+      "effectType": "EffectPos"
+    },
+    "Hindrance": {
+      "effectName": "Hindrance",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Hindrance",
+      "effectImgSrc": "https://images.uesp.net/thumb/c/cb/ON-icon-effect-Alchemy-Reduce_Speed.png/16px-ON-icon-effect-Alchemy-Reduce_Speed.png",
+      "effectType": "EffectNeg"
+    },
+    "Vulnerability": {
+      "effectName": "Vulnerability",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Vulnerability",
+      "effectImgSrc": "https://images.uesp.net/thumb/8/8b/ON-icon-effect-Alchemy-Vulnerability.png/16px-ON-icon-effect-Alchemy-Vulnerability.png",
+      "effectType": "EffectNeg"
+    },
+    "Defile": {
+      "effectName": "Defile",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Defile",
+      "effectImgSrc": "https://images.uesp.net/thumb/6/6c/ON-icon-effect-Alchemy-Defile.png/16px-ON-icon-effect-Alchemy-Defile.png",
+      "effectType": "EffectNeg"
+    },
+    "Unstoppable": {
+      "effectName": "Unstoppable",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Unstoppable",
+      "effectImgSrc": "https://images.uesp.net/thumb/1/11/ON-icon-effect-Alchemy-Unstoppable.png/16px-ON-icon-effect-Alchemy-Unstoppable.png",
+      "effectType": "EffectPos"
+    },
+    "Increase Spell Power": {
+      "effectName": "Increase Spell Power",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Increase_Spell_Power",
+      "effectImgSrc": "https://images.uesp.net/thumb/1/15/ON-icon-effect-Alchemy-Increase_Spell_Power.png/16px-ON-icon-effect-Alchemy-Increase_Spell_Power.png",
+      "effectType": "EffectPos"
+    },
+    "Spell Critical": {
+      "effectName": "Spell Critical",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Spell_Critical",
+      "effectImgSrc": "https://images.uesp.net/thumb/5/5b/ON-icon-effect-Alchemy-Spell_Crit.png/16px-ON-icon-effect-Alchemy-Spell_Crit.png",
+      "effectType": "EffectPos"
+    },
+    "Gradual Ravage Health": {
+      "effectName": "Gradual Ravage Health",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Gradual_Ravage_Health",
+      "effectImgSrc": "https://images.uesp.net/thumb/9/9b/ON-icon-effect-Alchemy-Creeping_Ravage_Health.png/16px-ON-icon-effect-Alchemy-Creeping_Ravage_Health.png",
+      "effectType": "EffectNeg"
+    },
+    "Heroism": {
+      "effectName": "Heroism",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Heroism",
+      "effectImgSrc": "https://images.uesp.net/thumb/d/dc/ON-icon-effect-Alchemy-Heroism.png/16px-ON-icon-effect-Alchemy-Heroism.png",
+      "effectType": "EffectPos"
+    },
+    "Enervation": {
+      "effectName": "Enervation",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Enervation",
+      "effectImgSrc": "https://images.uesp.net/thumb/3/3a/ON-icon-effect-Alchemy-Lower_Weapon_Crit.png/16px-ON-icon-effect-Alchemy-Lower_Weapon_Crit.png",
+      "effectType": "EffectNeg"
+    },
+    "Fracture": {
+      "effectName": "Fracture",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Fracture",
+      "effectImgSrc": "https://images.uesp.net/thumb/f/f7/ON-icon-effect-Alchemy-Lower_Armor.png/16px-ON-icon-effect-Alchemy-Lower_Armor.png",
+      "effectType": "EffectNeg"
+    },
+    "Weapon Critical": {
+      "effectName": "Weapon Critical",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Weapon_Critical",
+      "effectImgSrc": "https://images.uesp.net/thumb/0/0b/ON-icon-effect-Alchemy-Weapon_Crit.png/16px-ON-icon-effect-Alchemy-Weapon_Crit.png",
+      "effectType": "EffectPos"
+    },
+    "Ravage Stamina": {
+      "effectName": "Ravage Stamina",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Ravage_Stamina",
+      "effectImgSrc": "https://images.uesp.net/thumb/7/7f/ON-icon-effect-Alchemy-Ravage_Stamina.png/16px-ON-icon-effect-Alchemy-Ravage_Stamina.png",
+      "effectType": "EffectNeg"
+    },
+    "Entrapment": {
+      "effectName": "Entrapment",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Entrapment",
+      "effectImgSrc": "https://images.uesp.net/thumb/0/08/ON-icon-effect-Alchemy-Stun.png/16px-ON-icon-effect-Alchemy-Stun.png",
+      "effectType": "EffectNeg"
+    },
+    "Maim": {
+      "effectName": "Maim",
+      "effectWikiURL": "https://en.uesp.net/wiki/Online:Maim",
+      "effectImgSrc": "https://images.uesp.net/thumb/1/16/ON-icon-effect-Alchemy-Lower_Weapon_Power.png/16px-ON-icon-effect-Alchemy-Lower_Weapon_Power.png",
+      "effectType": "EffectNeg"
+    }
+  }
+}

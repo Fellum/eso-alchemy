@@ -1,0 +1,34 @@
+.effect-chooser-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    float: left;
+}
+
+.effect-chooser-wrapper > div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: max-content;
+}
+
+.effect-chooser-item {
+    padding: 2px;
+    margin: 1px;
+    border-radius: 1em;
+    text-align: center;
+    cursor:pointer;
+    user-select: none;
+}
+
+.effect-neg {
+    background: red
+}
+
+.effect-pos {
+    background: green
+}
+
+.effect-chosen {
+    background: yellow;
+}
